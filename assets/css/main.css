@@ -325,9 +325,6 @@ img {
   height: auto;
   vertical-align: bottom;
 }
-article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, img {
-  display: block;
-}
     
 .wa-toggle {
     right: 10px;

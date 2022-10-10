@@ -290,7 +290,14 @@ section {
   font-size: 2.25rem;
   box-shadow: 0 2px 4px rgb(0 0 0 / 75%);
   border-radius: 50%;
-} 
+}
+.wa-toggle img {
+  width: 40px;
+  height: 40px;
+  right: 0%;
+  bottom: 0%;
+
+}
 @media (min-width: 1280px) {
   .navbar {
     padding: 0;
@@ -328,13 +335,7 @@ section {
     line-height: 0;
     margin-left: 5px;
   }
-  .wa-toggle img {
-    width: 40px;
-    height: 40px;
-    right: 0%;
-    bottom: 0%;
-  
-}
+ 
 img {
   border: none;
   max-width: 100%;

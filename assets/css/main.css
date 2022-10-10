@@ -278,7 +278,7 @@ section {
 .wa-toggle {
   position: fixed;
   right: 30px;
-  bottom: 60px;
+  bottom: 25px;
   z-index: 9;
   display: flex;
   align-items: center;
@@ -344,7 +344,7 @@ img {
     
 .wa-toggle {
     right: 10px;
-    bottom: 30px;
+    bottom: 20px;
     width: 60px;
     height: 60px;
     font-size: 2rem;

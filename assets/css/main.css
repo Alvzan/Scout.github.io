@@ -277,7 +277,7 @@ section {
 --------------------------------------------------------------*/
 .wa-toggle {
   position: fixed;
-  right: 30px;
+  right: 15px;
   bottom: 25px;
   z-index: 9;
   display: flex;

@@ -1386,6 +1386,38 @@ img {
   background-size: contain;
   position: relative;
 }
+.portfolio{
+  background: url("../img/team.jpg") left top no-repeat;
+  background-size: contain;
+  position: relative;
+  bottom: auto;
+  right: auto;
+  left: auto;
+  top: auto;
+  width: 100%;
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  z-index: 1;
+}
+.team{
+  background: url("../img/kegiatan.jpg") left top no-repeat;
+  background-size: contain;
+  position: relative;
+  bottom: auto;
+  right: auto;
+  left: auto;
+  top: auto;
+  width: 100%;
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  z-index: 1;
+}
 @media (max-width: 640px) {
   .contact {
     background-position: center 50px;

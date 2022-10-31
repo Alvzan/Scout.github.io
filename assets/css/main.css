@@ -1386,12 +1386,6 @@ img {
   background-size: contain;
   position: relative;
 }
-.service-item {
-  background: url("../img/team.jpg") left top no-repeat;
-  background-size: contain;
-  position: 100%;
-}
-
 @media (max-width: 640px) {
   .contact {
     background-position: center 50px;
